@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo2</string>
+    <string name="loading">加载中…</string>
+    <string name="notice">通知信息</string>
+</resources>
